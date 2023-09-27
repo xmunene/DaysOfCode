@@ -1,4 +1,2 @@
-first=input("First number: ")
-second=input("Second number: ")
-sum=float(first)+float(second)
-print("Sum: ",sum)
+course='Python for Beginners'
+print(course.upper())
