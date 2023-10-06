@@ -1,2 +1,6 @@
+for x in "banana":
+    print(x)
 a="Hello World!"
-print(a[1])
+print(len(a))
+text="My name is Munene"
+print("Munene" in text)
