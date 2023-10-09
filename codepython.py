@@ -1,2 +1,2 @@
-name="Munene"
-print(name.find('u'))
+name='Big Man Ting Yeah'
+print(name.replace('Yeah', 'Yee!'))
