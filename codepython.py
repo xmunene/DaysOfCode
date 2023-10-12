@@ -1,2 +1,2 @@
 name='Big Man Ting Yeah'
-print(name.replace('Yeah', 'Yee!'))
+print('Big' in name)
