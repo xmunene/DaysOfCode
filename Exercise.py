@@ -1,9 +1,8 @@
-weight=input('Weight: ')
+weight=input('Enter your weight: ')
 unit=input('(K)g or (L)bs: ')
-if unit.upper()=="K":
-    converted=float(weight)/0.45
-    print('Weight in lbs is: ',converted)
+if unit.upper()=='K':
+    convertion=float(weight)/0.45
+    print('Your weight in lbs is: ',convertion)
 else:
-    converted=float(weight)*0.45
-    print('Weight in kg is: ',converted)
-
+    convertion=float(weight)*0.45
+    print('Your weight in kg is: ',convertion)
